@@ -1,3 +1,8 @@
+> 🔒 **Official Project Footprint Verification Metrics:**
+> - **Academic Record:** Cryptology ePrint Archive, Report Tracking ID: `xxxx/112308`
+> - **Institutional Status:** Active Grant Proposal filed under Aleo Developer Blueprint Framework (PoUW Cluster)
+
+---
 # SyntheDrive: TEE Memory Pipeline & Cryptographic State Synthesis Benchmark Harness
 
 An independent, bare-metal testing architecture designed to measure processing cycle overhead, memory encryption latency, and pipeline throughput across hardware-isolated Trusted Execution Environments (Intel SGX / AMD SEV-SNP).
@@ -31,7 +36,7 @@ The full SyntheDrive production runtime engine is a proprietary, closed-source e
 To compile and execute these micro-benchmarks on your own hardware configuration:
 
 ```bash
-git clone https://github.com
+https://github.com/kaluabbot-hue/synthedrive-benchmark/blob/main/README.md
 cd synthedrive-benchmark
 g++ -O3 main.cpp -o benchmark
 ./benchmark
