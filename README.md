@@ -1,6 +1,4 @@
-> 🔒 **Official Project Footprint Verification Metrics:**
-> - **Academic Record:** Cryptology ePrint Archive, Report Tracking ID: `xxxx/112308`
-> - **Institutional Status:** Active Grant Proposal filed under Aleo Developer Blueprint Framework (PoUW Cluster)
+
 
 ---
 # SyntheDrive: TEE Memory Pipeline & Cryptographic State Synthesis Benchmark Harness
