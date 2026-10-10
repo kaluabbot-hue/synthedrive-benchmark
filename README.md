@@ -32,9 +32,7 @@ The full SyntheDrive production runtime engine is a proprietary, closed-source e
 
 ## How to Verify
 To compile and execute these micro-benchmarks on your own hardware configuration:
-
-bash
 cd synthedrive-benchmark
 g++ -O3 main.cpp -o benchmark
 ./benchmark
-```
+
